@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block content %}
+    <h1>Check me out socially of course</h1>
+    <div class="row">
+        <div class="col-sm-4">
+            <a href="http://sanctuarysyrup.com"><img class="img-responsive" src="{% static 'img/wordpress-b.png' %}"></a>
+        </div>
+
+        <div class="col-sm-4">
+            <a href="http://github.com/gffbss"><img class="img-responsive" src="{% static 'img/GitHub-Mark.png' %}"></a>
+        </div>
+
+        <div class="col-sm-4">
+            <a href="http://twitter.com/gffbss"><img class="img-responsive" src="{% static 'img/twitter_circle.png' %}"></a>
+        </div>
+
+    </div>
+{% endblock %}

@@ -1,1 +1,10 @@
-body { padding-top: 70px; }
+
+
+body {
+    font-family: 'Carrois Gothic SC', sans-serif;
+    padding-top: 70px;
+}
+
+h1 {
+    text-align: center;
+}

@@ -2,8 +2,8 @@
 from django.shortcuts import render
 from blog.models import Post
 
-def home(request):
-    return render(request, "home.html")
+# def home(request):
+#     return render(request, "home.html")
 
 def index(request):
     # get the blog posts that are puplished
@@ -16,3 +16,4 @@ def post(request, slug):
     post = Post.objects.get(slug=slug)
     # return the rendered template
     return render(request, 'blog/post.html', {'post':post})
+
