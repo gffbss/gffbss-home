@@ -1,5 +1,9 @@
 # Create your views here.
 from django.shortcuts import render
+import os
+from __builtin__ import file
+from my_blog.settings import PDF_PATH
+from django.http import HttpResponse
 
 
 def home(request):
@@ -10,3 +14,12 @@ def contact(request):
 
 def social(request):
     return render(request, "social.html")
+
+def pdf(request, filename):
+
+    fullpath = os.path.join(PDF_PATH, filename)
+
+    response = HttpResponse(file(fullpath).read())
+    response['Content-Type'] = 'application/pdf'
+    response['Content-disposition'] = 'attachment'
+    return response

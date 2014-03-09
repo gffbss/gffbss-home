@@ -19,6 +19,9 @@ urlpatterns = patterns('',
     url(r'^blog/(?P<slug>[\w\-]+)/$', 'blog.views.post', name='view_post'),
     url(r'^contact/$', 'gb_home.views.contact', name='contact'),
     url(r'^social/$', 'gb_home.views.social', name='social'),
+    # Trying to get pdfs to work
+    # url(r'^pdf/(?P<filename>[a-z0-9A-Z_\-]*\.pdf)$', 'gb_home.views.pdf', name='my_pdf'),
+
 
 
 )
