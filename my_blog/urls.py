@@ -22,6 +22,6 @@ urlpatterns = patterns('',
     # Trying to get pdfs to work
     # url(r'^pdf/(?P<filename>[a-z0-9A-Z_\-]*\.pdf)$', 'gb_home.views.pdf', name='my_pdf'),
 
-
+ 
 
 )
