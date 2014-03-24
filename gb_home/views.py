@@ -23,3 +23,4 @@ def pdf(request, filename):
     response['Content-Type'] = 'application/pdf'
     response['Content-disposition'] = 'attachment'
     return response
+

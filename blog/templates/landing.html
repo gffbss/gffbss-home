@@ -1,0 +1,16 @@
+{% load staticfiles %}
+
+<html>
+<head>
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="{% static 'css/test.css' %}">
+    <script type="text/javascript" src="{% static 'js/landing.js' %}"></script>
+    <script type="text/javascript" src="{% static 'js/jquery-1.10.2.min.js' %}"></script>
+</head>
+<body>
+<div class="enter">
+    <a class="enter_btn" href="{% url 'home' %}">Geoff Boss</a>
+    <span class="divider"></span>
+    <span class="copyright">Full Stack Developer | Mostly Python/Django/JavaScript</span>
+</div>
+</body>

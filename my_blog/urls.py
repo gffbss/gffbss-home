@@ -14,11 +14,12 @@ urlpatterns = patterns('',
 
     # Uncomment the next line to enable the admin:
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^$', 'gb_home.views.home', name='home'),
+    url(r'^home/$', 'gb_home.views.home', name='home'),
     url(r'^blog/$', 'blog.views.index', name='blog_archive'),
     url(r'^blog/(?P<slug>[\w\-]+)/$', 'blog.views.post', name='view_post'),
     url(r'^contact/$', 'gb_home.views.contact', name='contact'),
     url(r'^social/$', 'gb_home.views.social', name='social'),
+    url(r'^$', 'blog.views.landing', name='landing'),
     # Trying to get pdfs to work
     # url(r'^pdf/(?P<filename>[a-z0-9A-Z_\-]*\.pdf)$', 'gb_home.views.pdf', name='my_pdf'),
 

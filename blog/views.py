@@ -17,3 +17,5 @@ def post(request, slug):
     # return the rendered template
     return render(request, 'blog/post.html', {'post':post})
 
+def landing(request):
+    return render(request, "landing.html")
