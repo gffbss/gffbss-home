@@ -1,0 +1,135 @@
+body {
+  font-family: 'Lato', sans-serif;
+
+}
+
+.main {
+  display: block;
+  background: #FFF;
+  color: #555;
+  font-family: monospace;
+  padding: 1em;
+}
+.enter{
+  position:fixed;
+  top:0;
+  left:0; background:url("img/boss_bear_main.jpg") no-repeat center center fixed;
+  -webkit-background-size:/*@@prefixmycss->No equivalent*/;
+  -moz-background-size:cover;
+  -o-background-size:/*@@prefixmycss->No equivalent*/;
+  background-size:cover;
+  display:block;
+  width:100%;
+  height:100%;
+  -webkit-box-shadow:inset 0 0 0em 80em rgba(255, 255, 255, 0.78);
+  -moz-box-shadow:inset 0 0 0em 80em rgba(255, 255, 255, 0.78);
+  box-shadow:inset 0 0 0em 80em rgba(255, 255, 255, 0.78);
+}
+.enter_btn{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  margin:20% auto;
+  text-align:center;
+  text-decoration:none;
+  text-transform:capitalize;
+  font-size:2.2em;
+  color:#646464;
+  text-shadow:0 -1000px 30px #F02820;
+  -webkit-transition:all 2s ease-in-out;
+  -moz-transition:all 2s ease-in-out;
+  -o-transition:all 2s ease-in-out;
+  transition:all 2s ease-in-out;
+  -webkit-animation:textShadow 2s 1 ease;
+  -moz-animation:textShadow 2s 1 ease;
+  -ms-animation:textShadow 2s 1 ease;
+  -o-animation:textShadow 2s 1 ease;
+  animation:textShadow 2s 1 ease;
+}
+.enter_btn:hover{
+  text-shadow: 0 1px 1px #333;
+  color:#f55;
+  -webkit-transition:all 2s ease-in-out;
+  -moz-transition:all 2s ease-in-out;
+  -o-transition:all 2s ease-in-out;
+  transition:all 2s ease-in-out;
+}
+
+
+
+@-webkit-keyframes textShadow{0%{color:white;}}
+@-moz-keyframes textShadow{0%{color:white;}}
+@-o-keyframes textShadow{0%{color:white;}}
+@-ms-keyframes textShadow{0%{color:white;}}
+@keyframes textShadow{0%{color:white;}}
+
+
+
+.divider{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  background:#A7A7A7;
+  height:1px;
+  margin:25% auto;
+  -webkit-animation:thiswidth 5s ease;
+  -moz-animation:thiswidth 5s ease;
+  -ms-animation:thiswidth 5s ease;
+  -o-animation:thiswidth 5s ease;
+  animation:thiswidth 5s ease;
+}
+
+
+
+@-webkit-keyframes thiswidth{0%{width:0%;}}
+@-moz-keyframes thiswidth{0%{width:0%;}}
+@-o-keyframes thiswidth{0%{width:0%;}}
+@-ms-keyframes thiswidth{0%{width:0%;}}
+@keyframes thiswidth{0%{width:0%;}}
+
+
+.copyright{
+  position:absolute;
+  top:0;
+  left:0;
+  width:100%;
+  margin:27% auto;
+  text-align:center;
+  font-family:monospace;
+  text-transform:capitalize;
+  color:#797777;
+  -webkit-animation:thisshow 6s ease;
+  -moz-animation:thisshow 6s ease;
+  -ms-animation:thisshow 6s ease;
+  -o-animation:thisshow 6s ease;
+  animation:thisshow 6s ease;
+}
+
+
+@-webkit-keyframes thisshow{0%{color: #fff;}}
+@-moz-keyframes thisshow{0%{color: #fff;}}
+@-o-keyframes thisshow{0%{color: #fff;}}
+@-ms-keyframes thisshow{0%{color: #fff;}}
+@keyframes thisshow{0%{color: #fff;}}
+
+
+.showme{
+  -webkit-box-shadow:inset 0 0 0em 0em white;
+  -moz-box-shadow:inset 0 0 0em 0em white;
+  box-shadow:inset 0 0 0em 0em white;
+  -webkit-transition:all 2s ease-in-out;
+  -moz-transition:all 2s ease-in-out;
+  -o-transition:all 2s ease-in-out;
+  transition:all 2s ease-in-out;
+}
+.hideme{
+  top:-200%;
+  -webkit-transition:all 2s ease-in-out;
+  -moz-transition:all 2s ease-in-out;
+  -o-transition:all 2s ease-in-out;
+  transition:all 2s ease-in-out;
+}
+
+

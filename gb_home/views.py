@@ -7,7 +7,7 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return render(request, "home.html")
+    return render(request, "testing-home.html") # had home.html there, testing out the sidebar
 
 def contact(request):
     return render(request, "contact.html")

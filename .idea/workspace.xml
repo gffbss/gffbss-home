@@ -26,7 +26,7 @@
       <file leaf-file-name="urls.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_blog/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="37" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+            <state line="21" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
@@ -35,25 +35,16 @@
       <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gb_home/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="57" selection-start="558" selection-end="558" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
+            <state line="4" column="18" selection-start="77" selection-end="97" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landing.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/templates/landing.html">
+      <file leaf-file-name="testing-home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gb_home/templates/testing-home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="66" selection-start="207" selection-end="207" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blog/static/css/test.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="782" selection-end="782" vertical-scroll-proportion="-1.1230159" vertical-offset="1359" max-vertical-offset="2115">
+            <state line="6" column="19" selection-start="153" selection-end="153" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1350">
               <folding />
             </state>
           </provider>
@@ -62,16 +53,16 @@
       <file leaf-file-name="base.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="0" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="615">
+            <state line="50" column="61" selection-start="2163" selection-end="2163" vertical-scroll-proportion="-15.416667" vertical-offset="380" max-vertical-offset="870">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gb_home/static/js/main.js">
+      <file leaf-file-name="views.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gb_home/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="3" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+            <state line="9" column="94" selection-start="291" selection-end="291" vertical-scroll-proportion="0.1503006" vertical-offset="0" max-vertical-offset="499">
               <folding />
             </state>
           </provider>
@@ -101,12 +92,16 @@
         <option value="$PROJECT_DIR$/gb_home/templates/test_homt.html" />
         <option value="$PROJECT_DIR$/blog/static/js/testing.js" />
         <option value="$PROJECT_DIR$/gb_home/templates/test_home.html" />
-        <option value="$PROJECT_DIR$/gb_home/views.py" />
         <option value="$PROJECT_DIR$/blog/views.py" />
-        <option value="$PROJECT_DIR$/my_blog/urls.py" />
-        <option value="$PROJECT_DIR$/blog/templates/base.html" />
-        <option value="$PROJECT_DIR$/blog/templates/landing.html" />
         <option value="$PROJECT_DIR$/blog/static/css/test.css" />
+        <option value="$PROJECT_DIR$/blog/templates/landing.html" />
+        <option value="$PROJECT_DIR$/gb_home/templates/testing-home.html" />
+        <option value="$PROJECT_DIR$/blog/static/css/dashboard.css" />
+        <option value="$PROJECT_DIR$/blog/static/js/docs.min.js" />
+        <option value="$PROJECT_DIR$/blog/static/js/main.js" />
+        <option value="$PROJECT_DIR$/blog/templates/base.html" />
+        <option value="$PROJECT_DIR$/my_blog/urls.py" />
+        <option value="$PROJECT_DIR$/gb_home/views.py" />
       </list>
     </option>
   </component>
@@ -550,7 +545,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2038168" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32780612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -576,27 +571,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blog/templates/blog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="262" selection-end="262" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="375">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="14" selection-start="976" selection-end="976" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="570">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gb_home/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="30" selection-start="299" selection-end="299" vertical-scroll-proportion="0.0" vertical-offset="135" max-vertical-offset="510">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gb_home/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="4" selection-start="401" selection-end="401" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="450">
@@ -852,51 +826,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gb_home/views.py">
+    <entry file="file://$PROJECT_DIR$/blog/templates/landing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="182" selection-end="182" vertical-scroll-proportion="0.07936508" vertical-offset="0" max-vertical-offset="756">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gb_home/static/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="3" selection-start="835" selection-end="835" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_blog/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="37" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+        <state line="5" column="66" selection-start="207" selection-end="207" vertical-scroll-proportion="0.15789473" vertical-offset="0" max-vertical-offset="475">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gb_home/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="57" selection-start="558" selection-end="558" vertical-scroll-proportion="-9.375" vertical-offset="0" max-vertical-offset="510">
+        <state line="4" column="18" selection-start="77" selection-end="97" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="0" selection-start="1872" selection-end="1872" vertical-scroll-proportion="3.7875752" vertical-offset="0" max-vertical-offset="1980">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/css/landing.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="7" selection-start="53" selection-end="53" vertical-scroll-proportion="0.1503006" vertical-offset="0" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/js/docs.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="1211" selection-start="13882" selection-end="13882" vertical-scroll-proportion="0.52469134" vertical-offset="0" max-vertical-offset="486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="180" column="1" selection-start="3553" selection-end="3553" vertical-scroll-proportion="5.4938273" vertical-offset="0" max-vertical-offset="2760">
+          <folding>
+            <element signature="e#0#46#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gb_home/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="3" selection-start="835" selection-end="835" vertical-scroll-proportion="1.0521042" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_blog/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gb_home/templates/testing-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="19" selection-start="153" selection-end="153" vertical-scroll-proportion="-3.75" vertical-offset="0" max-vertical-offset="1350">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="0" selection-start="1226" selection-end="1226" vertical-scroll-proportion="-15.625" vertical-offset="0" max-vertical-offset="615">
+        <state line="50" column="61" selection-start="2163" selection-end="2163" vertical-scroll-proportion="-15.416667" vertical-offset="380" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/templates/landing.html">
+    <entry file="file://$PROJECT_DIR$/gb_home/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="66" selection-start="207" selection-end="207" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="315">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/static/css/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="782" selection-end="782" vertical-scroll-proportion="-1.1230159" vertical-offset="1359" max-vertical-offset="2115">
+        <state line="9" column="94" selection-start="291" selection-end="291" vertical-scroll-proportion="0.1503006" vertical-offset="0" max-vertical-offset="499">
           <folding />
         </state>
       </provider>
